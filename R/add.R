@@ -11,4 +11,3 @@ add <- function(x, y) {
   x + y
 }
 
-devtools::document()
