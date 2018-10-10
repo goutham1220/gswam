@@ -8,7 +8,9 @@ Description: Test package
 License: MIT
 Encoding: UTF-8
 Imports:
-    ggplot2
+    ggplot2,
+    Rcpp
 LazyData: true
 RoxygenNote: 6.1.0
 Suggests: testthat
+LinkingTo: Rcpp
